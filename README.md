@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kingmenko
-- 👀 I’m interested in ...automation,frontend/backend developing game developing
+- 👀 I’m interested in ...automation,frontend/backend developing ,game developing and online security
 - 🌱 I’m currently learning ...c#,python and sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
