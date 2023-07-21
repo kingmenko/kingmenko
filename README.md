@@ -1,5 +1,5 @@
 - 👋 Hi there I’m Amania-Enrico  
-- 👀i'm a C#,Bash,Javascript programmer /web-developer
+- 👀i'm a C#,Bash,Javascript programmer /web-developer (4 fun)
 - 💻I'm also a hardcore linux user ,linux is bisacally second nature to me💽 
 
 
