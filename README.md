@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Amania-Enrico  
-- 👀 I’m a Li...automation,frontend/backend developing ,game developing and online security
-- 🌱 I’m currently learning ...c#,python and sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👋 Hi there I’m Amania-Enrico  
+- 👀i'm a C#,Bash,Javascript programmer /web-developer
+- 💻I'm also a hardcore linux user ,linux is bisacally second nature to me💽 
 
 
 <!---
